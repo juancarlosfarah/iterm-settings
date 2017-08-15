@@ -1140,7 +1140,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/juancarlosfarah</string>
+			<string>$HOME</string>
 		</dict>
 	</array>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
@@ -1217,7 +1217,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/juancarlosfarah/git/iterm-settings</string>
+	<string>$HOME/git/iterm-settings</string>
 	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
 	<key>SUEnableAutomaticChecks</key>
@@ -2011,7 +2011,7 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Default</string>
@@ -2024,7 +2024,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -2033,7 +2033,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>login -fp "juancarlosfarah"</string>
+													<string>login -fp $USER</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -2056,7 +2056,7 @@
 												<key>TTY</key>
 												<string>/dev/ttys009</string>
 												<key>Working Directory</key>
-												<string>/Users/juancarlosfarah</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -2798,7 +2798,7 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Default</string>
@@ -2811,7 +2811,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -2820,7 +2820,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>login -fp "juancarlosfarah"</string>
+													<string>login -fp $USER</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -2843,7 +2843,7 @@
 												<key>TTY</key>
 												<string>/dev/ttys013</string>
 												<key>Working Directory</key>
-												<string>/Users/juancarlosfarah</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -3605,7 +3605,7 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Default</string>
@@ -3618,7 +3618,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -3627,7 +3627,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>login -fp "juancarlosfarah"</string>
+													<string>login -fp $USER</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -3650,7 +3650,7 @@
 												<key>TTY</key>
 												<string>/dev/ttys011</string>
 												<key>Working Directory</key>
-												<string>/Users/juancarlosfarah</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
@@ -4392,7 +4392,7 @@
 													<key>Window Type</key>
 													<integer>0</integer>
 													<key>Working Directory</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Bookmark Name</key>
 												<string>Default</string>
@@ -4405,7 +4405,7 @@
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/juancarlosfarah</string>
+													<string>$HOME</string>
 												</dict>
 												<key>Hosts</key>
 												<array/>
@@ -4414,7 +4414,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>login -fp "juancarlosfarah"</string>
+													<string>login -fp $USER</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -4437,7 +4437,7 @@
 												<key>TTY</key>
 												<string>/dev/ttys012</string>
 												<key>Working Directory</key>
-												<string>/Users/juancarlosfarah</string>
+												<string>$HOME</string>
 											</dict>
 											<key>View Type</key>
 											<string>SessionView</string>
